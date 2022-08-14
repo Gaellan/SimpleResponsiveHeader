@@ -8,4 +8,4 @@ Manages light an dark theme using `prefers-color-scheme`.
 
 Uses two breakpoints :
 - `min-width` : 0px and up for mobiles and tablets
-- `min-width` : 996px and up for desktops
+- `min-width` : 992px and up for desktops
